@@ -17,6 +17,8 @@ gem 'materialize-sass', '~> 1.0.0'
 gem 'material_icons'
 # For jquery
 gem 'jquery-rails'
+# For secure password
+gem 'bcrypt', '~> 3.1.7'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
