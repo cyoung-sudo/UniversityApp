@@ -1,24 +1,23 @@
-# README
+# UniversityApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## App preview:
 
-Things you may want to cover:
+## Heroku link:
 
-* Ruby version
+## Features:
 
-* System dependencies
+* Create user accounts
 
-* Configuration
+* Enroll in courses
 
-* Database creation
+## Information:
 
-* Database initialization
+* Ruby version: 2.6.3
 
-* How to run the test suite
+* Rails version: 5.2.4
 
-* Services (job queues, cache servers, search engines, etc.)
+* MaterializeCSS version: 1.0.0
 
-* Deployment instructions
+## Issues:
 
-* ...
+* Mobile collapse button only works on first click
