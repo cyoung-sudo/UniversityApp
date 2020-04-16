@@ -2,7 +2,10 @@
 
 ## App preview:
 
+![](app/assets/images/preview.png)
+
 ## Heroku link:
+http://university-app-test-app.herokuapp.com
 
 ## Features:
 
