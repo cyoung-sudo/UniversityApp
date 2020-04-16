@@ -6,7 +6,7 @@ class CoursesController < ApplicationController
   end
 
   def new
-  
+    redirect_to root_path
   end
   
 end
