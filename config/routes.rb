@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   get 'courses/new', to: 'courses#new'
 
   get 'about', to: 'pages#about'
+  get 'contact', to: 'pages#contact'
+  get 'help', to: 'pages#help'
 
   resources :students, except: [:destroy]
 
